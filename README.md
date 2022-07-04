@@ -21,5 +21,5 @@ Full access to Excel's data base [here]() or in `Data source`'s directory
 
 There are 2 possibles ways to launch the app : 
 </br> 
-1. *Editing mode :* launch Tableau desktop on your computer by running [Tableau desktop source file]() (Tableau Desktop last version is fully recommended)
-2. *View/browsing mode :* Get a public access to the app from [Tableau public server]()
+1. **Editing mode :** launch Tableau desktop on your computer by running [Tableau desktop source file]() (Tableau Desktop last version is fully recommended)
+2. **View/browsing mode :** Get a public access to the app from [Tableau public server]()
