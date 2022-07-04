@@ -8,7 +8,7 @@ So, it's important to know that our company is positioned on three core areas of
 </br>
 1. New sustainable drinking water access installations
 2. Replace or/and secure old existing infrastructure if necessary
-3. Sensibilise government to extend the coverage to acces of drinking water
+3. Educate government to extend the coverage to acces of drinking water
 
 
 # DataBase 
