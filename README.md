@@ -15,11 +15,11 @@ So, it's important to know that our company is positioned on three core areas of
  
 Data is official and comes from [Food and agriculture organization](https://www.fao.org/home/en). Small data quantity allow me to store them in Excel's data base. 
 </br>
-Full access to Excel's data base [here]() or in `Data source`'s directory
+To have a full access to Excel's data base, you can download the file BDD_DWFA [here](https://github.com/marcadeant/DWA/blob/main/Data%20Source/BDD_DWFA.xls) or in `Data source`'s directory
 
 # Tableau software interactive data application
 
 There are 2 possibles ways to launch the app : 
 </br> 
-1. **Editing mode :** launch Tableau desktop on your computer by running [Tableau desktop source file]() (Tableau Desktop last version is fully recommended)
-2. **View/browsing mode :** Get a public access to the app from [Tableau public server]()
+1. **Editing mode :** launch Tableau desktop on your computer by download and running [Tableau desktop source file](https://github.com/marcadeant/DWA/blob/main/Application%20Tableau/Drinking%20Water%20Study.twbx) (Tableau Desktop last version is fully recommended)
+2. **View/browsing mode :** Get a public access to the app from [Tableau public server](https://public.tableau.com/app/profile/antoine.marcad./viz/DrinkingWaterStudy/Histoire1)
