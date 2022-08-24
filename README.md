@@ -1,7 +1,7 @@
-# DWFA
+[![cover](images/dwfa_cover.png)](https://public.tableau.com/app/profile/antoine.marcad./viz/DrinkingWaterStudy/Histoire1)
+
 
 # Main goal
-</br>
 
 For the purpose of this project, I've designed a full data application to help our company raise funds. Through the app, we're capable of determine what are the place to be, as a priority, to install or modernize drinking water acces infrastructures. Before going straight to the point, let me introduce you our company's DNA.  
 So, it's important to know that our company is positioned on three core areas of expertise :
