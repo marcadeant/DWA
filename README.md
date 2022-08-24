@@ -17,7 +17,7 @@ Data is official and comes from [Food and agriculture organization](https://www.
 </br>
 To have a full access to Excel's data base, you can download the file BDD_DWFA [here](https://github.com/marcadeant/DWA/blob/main/Data%20Source/BDD_DWFA.xls) or in `Data source`'s directory
 
-# Tableau software interactive data application
+# Tableau software application
 
 There are 2 possibles ways to launch the app : 
 </br> 
